@@ -1,0 +1,11 @@
+countries = ['португалия', 'япония', 'китай', 'монголия', 'сша']
+print(sorted(countries))
+print(countries)
+countries.reverse()
+print(countries)
+countries.reverse()
+print(countries)
+countries.sort()
+print(countries)
+countries.sort(reverse=True)
+print(countries)
